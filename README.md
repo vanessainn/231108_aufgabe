@@ -27,7 +27,7 @@ Programmiere eine einfache Todo-Liste. Alle Aufgaben unter Punkt 3. dürfen auss
 - Formatiere die Todo-Liste nach eigenem Ermessen
 - Die Aufgabenliste soll nach einer handgeschriebenen Aufgabenliste aussehen
 
-3. **Javascript**
+3. **Javascript**  ✅
 - Nutze in deiner JS-Datei den Strict-Mode
 - Deklariere eine Variable `vorname` und weise ihr deinen Vornamen als Wert zu.
 - Setze mithilfe eines [Template Strings](https://www.w3schools.com/js/js_string_templates.asp) die Variable `vorname` ein: "Todos von (vorname)"
