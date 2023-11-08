@@ -12,7 +12,7 @@
 
 Programmiere eine einfache Todo-Liste. Alle Aufgaben unter Punkt 3. dürfen ausschließlich mithilfe von JS erledigt werden.
 
-1. **HTML**
+1. **HTML**  ✅
 - Erstelle eine HTML-Grundstruktur in der Datei `index.html`
 - Binde die externen Files `js/script.js` und `css/style.css` ein.
 - Erstelle eine Headline `<h1>Todos</h1>`
