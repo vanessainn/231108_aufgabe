@@ -23,7 +23,7 @@ Programmiere eine einfache Todo-Liste. Alle Aufgaben unter Punkt 3. dürfen auss
   - Müll entsorgen
   - E-Mails beantworten
 
-2. **CSS**
+2. **CSS**  ✅
 - Formatiere die Todo-Liste nach eigenem Ermessen
 - Die Aufgabenliste soll nach einer handgeschriebenen Aufgabenliste aussehen
 
